@@ -1,0 +1,9 @@
+(module Write_Pad (layer F.Cu) (tedit 5E25EB20)
+  (fp_text reference REF** (at 0 5.88) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Write_Pad (at 0 8) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_poly (pts (xy 5 5) (xy -5 5) (xy -5 -5) (xy 5 -5)) (layer B.SilkS) (width 0.1))
+)
