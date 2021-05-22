@@ -1,5 +1,5 @@
 
-(module TO254P483X1016X2222-3P (layer F.Cu) (tedit 60A2EDDD)
+(module TO254P483X1016X2222-3P (layer F.Cu) (tedit 60A82B06)
   (descr "")
   (fp_text reference REF** (at -1.984525 -5.266655 0) (layer F.SilkS)
     (effects (font (size 1.64276377953 1.64276377953) (thickness 0.015)))
