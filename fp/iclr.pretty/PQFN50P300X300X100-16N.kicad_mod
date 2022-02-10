@@ -1,5 +1,5 @@
 
-(module PQFN50P300X300X100-16N (layer F.Cu) (tedit 61F5B9AB)
+(module PQFN50P300X300X100-16N (layer F.Cu) (tedit 62058F46)
   (descr "")
   (fp_text reference REF** (at -0.226 -2.1868 0) (layer F.SilkS)
     (effects (font (size 0.48 0.48) (thickness 0.15)))
