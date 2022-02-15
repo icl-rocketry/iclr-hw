@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CP2102
+D USB Interface IC
+K
+F https://componentsearchengine.com/Datasheets/1/CP2102.pdf
+$ENDCMP
+#
+#End Doc Library
