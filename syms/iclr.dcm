@@ -5,6 +5,11 @@ D USB Interface IC
 F https://componentsearchengine.com/Datasheets/1/CP2102.pdf
 $ENDCMP
 #
+$CMP SI7315DN-T1-GE3
+D MOSFET -150V Vds 30V Vgs PowerPAK 1212-8
+F https://componentsearchengine.com/Datasheets/1/SI7315DN-T1-GE3.pdf
+$ENDCMP
+#
 $CMP TPS54233D
 D TPS54233D
 F http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TPS54233&fileType=pdf
