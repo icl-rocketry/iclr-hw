@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BQ34Z110PWR
+D Battery Management Wide Range Fuel Gge w/ Impedance Track
+K
+F http://www.ti.com/lit/ds/symlink/bq34z110.pdf
+$ENDCMP
+#
+#End Doc Library
