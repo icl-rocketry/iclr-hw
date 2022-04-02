@@ -1,5 +1,5 @@
 
-(module SOP50P310X90-8N (layer F.Cu) (tedit 6245E330)
+(module SOP50P310X90-8N (layer F.Cu) (tedit 6248B78F)
   (descr "")
   (fp_text reference REF** (at 0.925 -2.135 0) (layer F.SilkS)
     (effects (font (size 1.0 1.0) (thickness 0.15)))
