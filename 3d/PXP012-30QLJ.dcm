@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP PXP012-30QLJ
-D P-channel enhancement mode Field-Effect Transistor (FET) in an MLPAK33 (SOT8002) Surface-Mounted Device (SMD) plastic package using Trench MOSFET technology.
-K
-F https://assets.nexperia.com/documents/data-sheet/PXP012-30QL.pdf
-$ENDCMP
-#
-#End Doc Library
