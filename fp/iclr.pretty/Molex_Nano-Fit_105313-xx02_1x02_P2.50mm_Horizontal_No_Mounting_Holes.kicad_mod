@@ -1,4 +1,4 @@
-(footprint "Molex_Nano-Fit_105313-xx02_1x02_P2.50mm_Horizontal"
+(footprint "Molex_Nano-Fit_105313-xx02_1x02_P2.50mm_Horizontal_No_Mounting_Holes"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -29,10 +29,9 @@
 	)
 	(property "Footprint" ""
 		(at 0 0 0)
-		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "30c50fe8-0e12-422e-8364-e364601e4281")
+		(uuid "fa48524e-7f3c-4a3b-b87f-f3bd458d758e")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -42,10 +41,9 @@
 	)
 	(property "Datasheet" ""
 		(at 0 0 0)
-		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "d1511725-4b66-4de5-b0c1-45fc09dbf190")
+		(uuid "78e28e5c-212a-4ab0-8abc-6af1e549ae5c")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -55,10 +53,9 @@
 	)
 	(property "Description" ""
 		(at 0 0 0)
-		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "ef86c47f-ef7e-49e8-85dc-68f01345df11")
+		(uuid "0718ef99-5696-42b6-b649-44fc08baee8e")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -338,20 +335,6 @@
 			)
 		)
 	)
-	(pad "" np_thru_hole circle
-		(at 7.18 0)
-		(size 1.7 1.7)
-		(drill 1.7)
-		(layers "*.Cu" "*.Mask")
-		(uuid "82e6df8b-12e2-4720-a9a8-653854c8bf90")
-	)
-	(pad "" np_thru_hole circle
-		(at 7.18 2.5)
-		(size 1.7 1.7)
-		(drill 1.7)
-		(layers "*.Cu" "*.Mask")
-		(uuid "dc361bb9-dab1-458b-ab09-b3c06c464fef")
-	)
 	(pad "1" thru_hole roundrect
 		(at 0 0)
 		(size 2.2 1.7)
@@ -369,15 +352,15 @@
 		(remove_unused_layers no)
 		(uuid "b8e59167-b7ea-46ce-a533-e27dd3ee484e")
 	)
-	(model "${ICLR_HW}/3d/1053131102.stp"
+	(model "${KICAD6_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_Nano-Fit_105313-xx02_1x02_P2.50mm_Horizontal.wrl"
 		(offset
-			(xyz 6.15 -1.25 2)
+			(xyz 0 0 0)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -90 0 -90)
+			(xyz 0 0 0)
 		)
 	)
 )
