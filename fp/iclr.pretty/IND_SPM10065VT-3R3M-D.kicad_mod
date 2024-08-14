@@ -1,0 +1,230 @@
+(footprint "IND_SPM10065VT-3R3M-D"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -4.218 -5.9064 0)
+		(layer "F.SilkS")
+		(uuid "951dabea-a34c-45c4-a38c-b3469d84406f")
+		(effects
+			(font
+				(size 0.64 0.64)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "IND_SPM10065VT-3R3M-D"
+		(at 2.2844 5.9064 0)
+		(layer "F.Fab")
+		(uuid "fc3d1a03-4187-493f-936b-917203775c55")
+		(effects
+			(font
+				(size 0.64 0.64)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "35fdf9c8-5151-499f-ad3f-89c7744ecabd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dcfd9c7e-b4ac-4a19-bd78-a08fc61e18e1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ec9f7b97-3dcf-4144-8382-fb2cfec8b419")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -5.25 -5)
+		(end -5.25 -2.57)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c8c12b87-d817-457b-bb1c-5b54dab41d0e")
+	)
+	(fp_line
+		(start -5.25 -5)
+		(end 5.25 -5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8b17f7f4-7ea3-44a8-b590-4b3bfdf9d547")
+	)
+	(fp_line
+		(start -5.25 5)
+		(end -5.25 2.57)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8d2382b9-39e2-4b09-87d6-f838462bc8fd")
+	)
+	(fp_line
+		(start -5.25 5)
+		(end 5.25 5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a5238a2f-dac6-4452-b899-4642eca04753")
+	)
+	(fp_line
+		(start 5.25 -5)
+		(end 5.25 -2.57)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f65b52c5-257c-4abe-8c45-2f56dbaf1321")
+	)
+	(fp_line
+		(start 5.25 5)
+		(end 5.25 2.57)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "043b7932-a2e3-4af3-bad1-3f9b59b9a6b0")
+	)
+	(fp_line
+		(start -6.25 -5.25)
+		(end -6.25 5.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8911c069-93b4-4b03-b910-8c7feb2ee758")
+	)
+	(fp_line
+		(start -6.25 5.25)
+		(end 6.25 5.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3c68534b-937b-4abc-9c8e-f5511832ae41")
+	)
+	(fp_line
+		(start 6.25 -5.25)
+		(end -6.25 -5.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f905eb7d-9792-4016-a935-68bd1aab1914")
+	)
+	(fp_line
+		(start 6.25 5.25)
+		(end 6.25 -5.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b970aae3-a9cc-4063-96af-0b878aa4bbc3")
+	)
+	(fp_line
+		(start -5.25 -5)
+		(end -5.25 5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3a4541ef-ca67-46f8-8a61-ffe8a5e2b1cf")
+	)
+	(fp_line
+		(start -5.25 -5)
+		(end 5.25 -5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6cfb87ba-31e5-4923-8ac0-6e620dd3869f")
+	)
+	(fp_line
+		(start -5.25 5)
+		(end 5.25 5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "06038a7e-14a1-4a75-b88b-6c856a99ffd8")
+	)
+	(fp_line
+		(start 5.25 -5)
+		(end 5.25 5)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "71c80141-3469-40a2-8b22-e18b255b743c")
+	)
+	(pad "1" smd rect
+		(at -4.525 0)
+		(size 2.95 4.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "838167f7-c4cd-489a-93ef-1b9ec7e736be")
+	)
+	(pad "2" smd rect
+		(at 4.525 0)
+		(size 2.95 4.5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "19511016-3900-48a6-be15-1226d822aef8")
+	)
+	(model "${ICLR_HW}/3d/SPM10065VT-3R3M-D.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
