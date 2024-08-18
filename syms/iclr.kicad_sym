@@ -7151,7 +7151,7 @@
 		(symbol "CPDV5-3V3UP_0_1"
 			(polyline
 				(pts
-					(xy 0 -17.002) (xy 0 -15.478)
+					(xy 0 -12.938) (xy 0 -16.51)
 				)
 				(stroke
 					(width 0)
@@ -7163,31 +7163,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0 -16.24) (xy 0 -13.7)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0 -12.938) (xy 0 -14.462)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy -1.016 -14.462) (xy 0 -12.938) (xy 1.016 -14.462) (xy -1.016 -14.462)
+					(xy -1.03 -13.9125) (xy -0.014 -12.3885) (xy 1.002 -13.9125) (xy -1.03 -13.9125)
 				)
 				(stroke
 					(width 0.254)
@@ -7199,7 +7175,7 @@
 			)
 			(polyline
 				(pts
-					(xy 1.016 -15.478) (xy 0 -17.002) (xy -1.016 -15.478) (xy 1.016 -15.478)
+					(xy 1.0339 -16.5776) (xy 0.0179 -18.1016) (xy -0.9981 -16.5776) (xy 1.0339 -16.5776)
 				)
 				(stroke
 					(width 0.254)
@@ -7211,8 +7187,8 @@
 			)
 			(polyline
 				(pts
-					(xy -0.762 -17.51) (xy -1.016 -17.51) (xy -1.016 -17.002) (xy 1.016 -17.002) (xy 1.016 -16.494)
-					(xy 0.762 -16.494)
+					(xy -0.7441 -18.6096) (xy -0.9981 -18.6096) (xy -0.9981 -18.1016) (xy 1.0339 -18.1016) (xy 1.0339 -17.5936)
+					(xy 0.7799 -17.5936)
 				)
 				(stroke
 					(width 0.254)
@@ -7224,8 +7200,8 @@
 			)
 			(polyline
 				(pts
-					(xy 0.762 -12.43) (xy 1.016 -12.43) (xy 1.016 -12.938) (xy -1.016 -12.938) (xy -1.016 -13.446)
-					(xy -0.762 -13.446)
+					(xy 0.748 -11.8805) (xy 1.002 -11.8805) (xy 1.002 -12.3885) (xy -1.03 -12.3885) (xy -1.03 -12.8965)
+					(xy -0.776 -12.8965)
 				)
 				(stroke
 					(width 0.254)
@@ -7238,7 +7214,7 @@
 		)
 		(symbol "CPDV5-3V3UP_1_1"
 			(pin passive line
-				(at 0 -10.16 270)
+				(at 0 -8.89 270)
 				(length 4)
 				(name ""
 					(effects
@@ -7256,8 +7232,8 @@
 				)
 			)
 			(pin passive line
-				(at 3.985 -14.9344 180)
-				(length 4)
+				(at 3.81 -15.24 180)
+				(length 3.7)
 				(name ""
 					(effects
 						(font
@@ -7274,7 +7250,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -20.32 90)
+				(at 0 -21.59 90)
 				(length 4)
 				(name ""
 					(effects
@@ -7294,8 +7270,8 @@
 		)
 		(symbol "CPDV5-3V3UP_2_1"
 			(pin passive line
-				(at 4.1083 -14.9652 180)
-				(length 4)
+				(at 3.81 -15.24 180)
+				(length 3.7)
 				(name ""
 					(effects
 						(font
@@ -7312,7 +7288,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -20.32 90)
+				(at 0 -21.59 90)
 				(length 4)
 				(name ""
 					(effects
@@ -7330,7 +7306,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -10.16 270)
+				(at 0 -8.89 270)
 				(length 4)
 				(name ""
 					(effects
