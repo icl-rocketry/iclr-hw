@@ -17009,7 +17009,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "RCLAMP3346PQTNT"
+		(property "Footprint" "iclr:RCLAMP3346PQTNT"
 			(at 26.67 -94.92 0)
 			(effects
 				(font
