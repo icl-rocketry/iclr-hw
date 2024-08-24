@@ -5,14 +5,15 @@
 	(layer "F.Cu")
 	(descr "BSZ025N04LS-2")
 	(tags "MOSFET (N-Channel)")
-	(property "Reference" "Q**"
-		(at 0 0 0)
+	(property "Reference" "REF**"
+		(at -0.2 -2.65 0)
 		(layer "F.SilkS")
 		(uuid "673b6771-1fc5-4478-89f9-8f615ba15b72")
 		(effects
 			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
+				(size 0.8 0.8)
+				(thickness 0.1524)
+				(bold yes)
 			)
 		)
 	)
@@ -359,7 +360,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "206019a9-a72c-429e-bdd4-525bbb20ba41")
 	)
-	(model "BSZ025N04LS.stp"
+	(model "${ICLR_HW}/3d/BSZ025N04LS.stp"
 		(offset
 			(xyz 0 0 0)
 		)
