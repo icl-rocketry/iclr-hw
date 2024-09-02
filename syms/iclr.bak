@@ -11497,7 +11497,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 8.636 7.366 0)
+			(at 18.796 -21.082 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11505,8 +11505,8 @@
 				(justify left top)
 			)
 		)
-		(property "Value" "LM74810QDRRRQ1"
-			(at 8.636 4.826 0)
+		(property "Value" "LM74810"
+			(at 18.796 -23.622 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11535,7 +11535,7 @@
 			)
 		)
 		(property "Description" "Power Management Specialised - PMIC Automotive ideal diode controller with active rectification driving B2B NFETs"
-			(at 0 0 0)
+			(at 9.398 -35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11644,7 +11644,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -5.08 180)
+				(at 17.78 7.62 270)
 				(length 5.08)
 				(name "VS"
 					(effects
@@ -11662,7 +11662,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -2.54 180)
+				(at 20.32 7.62 270)
 				(length 5.08)
 				(name "CAP"
 					(effects
@@ -11680,7 +11680,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 0 180)
+				(at 15.24 7.62 270)
 				(length 5.08)
 				(name "C"
 					(effects
@@ -11698,7 +11698,7 @@
 				)
 			)
 			(pin passive line
-				(at 17.78 -25.4 90)
+				(at 0 -16.51 0)
 				(length 5.08)
 				(name "EP"
 					(effects
@@ -11752,7 +11752,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -7.62 0)
+				(at 35.56 -11.43 180)
 				(length 5.08)
 				(name "SW"
 					(effects
@@ -11770,7 +11770,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -10.16 0)
+				(at 35.56 -16.51 180)
 				(length 5.08)
 				(name "OV"
 					(effects
@@ -11788,7 +11788,7 @@
 				)
 			)
 			(pin passive line
-				(at 0 -12.7 0)
+				(at 0 -11.43 0)
 				(length 5.08)
 				(name "EN/UVLO"
 					(effects
@@ -11806,7 +11806,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -12.7 180)
+				(at 17.78 -25.4 90)
 				(length 5.08)
 				(name "GND"
 					(effects
@@ -11824,7 +11824,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -10.16 180)
+				(at 35.56 0 180)
 				(length 5.08)
 				(name "HGATE"
 					(effects
@@ -11842,7 +11842,7 @@
 				)
 			)
 			(pin passive line
-				(at 35.56 -7.62 180)
+				(at 35.56 -2.54 180)
 				(length 5.08)
 				(name "OUT"
 					(effects
