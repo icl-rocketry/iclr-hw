@@ -1,0 +1,122 @@
+(footprint "ETQP4M101KVC"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "e97211f4-ef1d-4cf9-b2f1-a4ce27597cdb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "ETQP4M101KVC"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "b1eb9586-7895-428b-8266-883e593a548f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1dd231a4-b88c-46a6-89bf-e45ab38749e5")
+		(effects
+			(font
+				(size 10 10.7)
+				(thickness 2.5)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d47848a6-36e2-4c74-9b53-98373a848c3b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "16f43b6d-e4dc-435e-9706-1e2aa9b89568")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 0 0)
+		(end 10.7 0)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "B.Cu")
+		(uuid "d7c7b795-2f81-4272-ba3c-4eb9da20df1a")
+	)
+	(fp_line
+		(start 0 10)
+		(end 0 0)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "B.Cu")
+		(uuid "a17a614d-5bad-4d7b-bb2f-600f729c2bd2")
+	)
+	(fp_line
+		(start 10.7 0)
+		(end 10.7 10)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "B.Cu")
+		(uuid "5e76a082-ee1e-40ee-a1ac-87b46e2b0bec")
+	)
+	(fp_line
+		(start 10.7 10)
+		(end 0 10)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "B.Cu")
+		(uuid "5ac8e84a-ae04-451a-a3eb-17b9da5c214e")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "0ac55374-4326-4cb2-bc3d-ba223442e2e2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+)
