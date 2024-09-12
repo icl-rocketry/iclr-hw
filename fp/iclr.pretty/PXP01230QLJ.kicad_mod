@@ -37,6 +37,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -49,6 +50,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -61,6 +63,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -272,7 +275,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "7a872d3a-5f5f-4b66-ba05-3386ec19aefb")
 	)
-	(model "PXP012-30QLJ.stp"
+	(model "${ICLR_HW}/3d/PXP012-30QLJ.stp"
 		(offset
 			(xyz -1.739999983 2.339999879 -1.669999932)
 		)

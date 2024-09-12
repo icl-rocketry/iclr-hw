@@ -1,0 +1,355 @@
+(footprint "HOPERF_RFM9XW_SMD"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Low Power Long Range Transceiver Module SMD-16 (https://www.hoperf.com/data/upload/portal/20181127/5bfcbea20e9ef.pdf)")
+	(tags "LoRa Low Power Long Range Transceiver Module")
+	(property "Reference" "U21"
+		(at -0.17 -2.51 180)
+		(layer "B.SilkS")
+		(hide yes)
+		(uuid "a8f16315-ce2e-4548-8325-161807ba1609")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "RFM95W-868S2"
+		(at 0.76 10.06 180)
+		(layer "F.Fab")
+		(uuid "ead4d68a-c938-4440-a06f-467a767c3e7b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "RF_Module:HOPERF_RFM9XW_SMD"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d2453dcd-4718-469f-930b-98a0fd3f9027")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.hoperf.com/data/upload/portal/20181127/5bfcbea20e9ef.pdf"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "394a4952-cf63-441a-88cb-c876f3df38c9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3520b4f5-e3f3-4fcf-9455-382a533884fe")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -8.1 -8.1)
+		(end 8.1 -8.1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8bf5bb07-1186-4769-bb8c-c7b20452059e")
+	)
+	(fp_line
+		(start -8.1 7.7)
+		(end -8.1 8.1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "caded8d7-747e-4f59-9f60-c6321621afb1")
+	)
+	(fp_line
+		(start -8.1 8.1)
+		(end 8.1 8.1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3a878213-985a-433f-8435-568aa9ba2620")
+	)
+	(fp_line
+		(start 8.1 -8.1)
+		(end 8.1 -7.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0c6f9b78-853c-49c8-a44a-2a88efd9baf9")
+	)
+	(fp_line
+		(start 8.1 8.1)
+		(end 8.1 7.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c0e84a3a-a703-4c1f-b2fd-63b425a8c64c")
+	)
+	(fp_poly
+		(pts
+			(xy -8.6 -7.9) (xy -8.84 -8.236) (xy -8.36 -8.236) (xy -8.6 -7.9)
+		)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "d9bb8094-e831-45f7-8fd7-515664fa07b5")
+	)
+	(fp_line
+		(start -9.25 -8.25)
+		(end 9.25 -8.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8c83677a-c1d7-498b-a456-739013541768")
+	)
+	(fp_line
+		(start -9.25 8.25)
+		(end -9.25 -8.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "58fb7a22-5a44-46cc-834e-69fd4ba61816")
+	)
+	(fp_line
+		(start -9.25 8.25)
+		(end 9.25 8.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8ae4cb1d-38df-4560-ba53-3227110625d3")
+	)
+	(fp_line
+		(start 9.25 -8.25)
+		(end 9.25 8.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1ab1875b-d852-488b-ab73-185305a7f34b")
+	)
+	(fp_line
+		(start -8 8)
+		(end -8 -7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "865ec924-e342-4efb-84c9-3d9bd8334951")
+	)
+	(fp_line
+		(start -8 8)
+		(end 8 8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5692aded-79d3-4bcd-9e92-379f2b84a313")
+	)
+	(fp_line
+		(start -7 -8)
+		(end -8 -7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "11f67be6-90d2-4508-ae88-43b754f4227c")
+	)
+	(fp_line
+		(start -7 -8)
+		(end 8 -8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d28be842-5c29-4901-9c26-26d54736a43d")
+	)
+	(fp_line
+		(start 8 8)
+		(end 8 -8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ceeb95f6-7083-48d3-b989-d582672981d6")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 180)
+		(layer "B.SilkS")
+		(hide yes)
+		(uuid "32526183-62b2-4e89-b388-589d246e8384")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -7.525 -7)
+		(size 2.95 1.27)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "e4403bf2-0bf6-44fc-a8d1-04ee5cfe2a3a")
+	)
+	(pad "2" smd roundrect
+		(at -7.525 -5)
+		(size 2.95 1.27)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "591a3523-3d62-44d0-b591-9984e62851c8")
+	)
+	(pad "3" smd roundrect
+		(at -7.525 -3)
+		(size 2.95 1.27)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "ef906eff-cc7a-44e3-8bf8-821fee68a3ba")
+	)
+	(pad "4" smd roundrect
+		(at -7.525 -1)
+		(size 2.95 1.27)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "7ee86b04-2e6f-4549-a1cc-f2b924e41a0f")
+	)
+	(pad "5" smd roundrect
+		(at -7.525 1)
+		(size 2.95 1.27)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "a365cd7f-e166-46f2-ad3a-3487b28fc6b0")
+	)
+	(pad "6" smd roundrect
+		(at -7.525 3)
+		(size 2.95 1.27)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "99990fb6-ad53-479d-8180-c7a0fca6df2d")
+	)
+	(pad "7" smd roundrect
+		(at -7.525 5)
+		(size 2.95 1.27)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "35aede59-4416-4482-89c0-3517a868f3c0")
+	)
+	(pad "8" smd roundrect
+		(at -7.525 7)
+		(size 2.95 1.27)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "558c4da5-d5e6-41ac-9feb-c4acb9944d59")
+	)
+	(pad "9" smd roundrect
+		(at 7.525 7)
+		(size 2.95 1.27)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "aabb9aed-29c4-460e-9a7c-3194539a2af7")
+	)
+	(pad "10" smd roundrect
+		(at 7.525 5)
+		(size 2.95 1.27)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "80c38bad-374f-4ce6-bfb4-1a7620253dcc")
+	)
+	(pad "11" smd roundrect
+		(at 7.525 3)
+		(size 2.95 1.27)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "69870c44-540c-4c60-9d62-f9090479d7af")
+	)
+	(pad "12" smd roundrect
+		(at 7.525 1)
+		(size 2.95 1.27)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "df8b5c5f-2753-403a-bb95-138a42467513")
+	)
+	(pad "13" smd roundrect
+		(at 7.525 -1)
+		(size 2.95 1.27)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "13cc0b68-917c-46a3-8686-d5f0ce5ea00a")
+	)
+	(pad "14" smd roundrect
+		(at 7.525 -3)
+		(size 2.95 1.27)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "4d5e12b1-b859-4d78-9ac8-03b5c470b8ef")
+	)
+	(pad "15" smd roundrect
+		(at 7.525 -5)
+		(size 2.95 1.27)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "53c4bcce-f628-48b5-9196-0b0342039384")
+	)
+	(pad "16" smd roundrect
+		(at 7.525 -7)
+		(size 2.95 1.27)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "dece35f5-0abe-486a-87f5-0c07d62f8b08")
+	)
+	(model "${ICLR_HW}/3d/RFM95 LoRa v15.step"
+		(offset
+			(xyz -8 8 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)
