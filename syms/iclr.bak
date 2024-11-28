@@ -33227,9 +33227,9 @@
 				)
 			)
 			(pin input line
-				(at 8.89 -2.54 180)
+				(at 8.89 -13.97 180)
 				(length 2.54)
-				(name "VDD"
+				(name "CMD"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -33237,24 +33237,6 @@
 					)
 				)
 				(number "5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 8.89 -6.35 180)
-				(length 2.54)
-				(name "DAT1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "6"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -33272,6 +33254,24 @@
 						)
 					)
 				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 8.89 -6.35 180)
+				(length 2.54)
+				(name "DAT1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
 				(number "7"
 					(effects
 						(font
@@ -33281,9 +33281,9 @@
 				)
 			)
 			(pin input line
-				(at 8.89 -13.97 180)
+				(at 8.89 -2.54 180)
 				(length 2.54)
-				(name "CMD"
+				(name "VDD"
 					(effects
 						(font
 							(size 1.27 1.27)
