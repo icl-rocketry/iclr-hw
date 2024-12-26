@@ -33876,7 +33876,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410010101_Zetta-ZDSD04GLGEAG_C2875854.pdf"
 			(at 0 0 0)
 			(effects
 				(font
