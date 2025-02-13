@@ -198,7 +198,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "9b966a8e-ab4c-4d15-b281-5e3120d6a72f")
 	)
-	(model "${ICLR_HW}/S-102T.stp"
+	(model "${ICLR_HW}/3d/S-102T.stp"
 		(offset
 			(xyz 0 0 0)
 		)

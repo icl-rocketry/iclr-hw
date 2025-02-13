@@ -343,13 +343,13 @@
 	)
 	(model "${ICLR_HW}/3d/RFM95 LoRa v15.step"
 		(offset
-			(xyz -8 8 0)
+			(xyz 8 -8 0)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz -90 0 0)
+			(xyz -90 0 180)
 		)
 	)
 )
