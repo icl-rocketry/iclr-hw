@@ -4,7 +4,7 @@
 	(generator_version "8.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 4 0)
+		(at 0 3 0)
 		(layer "F.SilkS")
 		(uuid "8ef75742-469d-454c-923c-476f06daf1f2")
 		(effects
@@ -17,6 +17,7 @@
 	(property "Value" "QFN-16_MP28167_MNP"
 		(at 0 -3 0)
 		(layer "F.SilkS")
+		(hide yes)
 		(uuid "dc1e3c02-a039-4f79-b3f3-601431bd5c6d")
 		(effects
 			(font
