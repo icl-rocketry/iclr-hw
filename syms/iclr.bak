@@ -33859,8 +33859,8 @@
 				)
 			)
 		)
-		(property "Value" ""
-			(at 0 0 0)
+		(property "Value" "ZDSD04GLGEAG"
+			(at 0 1.778 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33876,7 +33876,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2410010101_Zetta-ZDSD04GLGEAG_C2875854.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -33908,14 +33908,6 @@
 			)
 		)
 		(symbol "ZDSD04GLGEAG_1_1"
-			(text "ZDSD04GLGEAG"
-				(at 0 1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
 			(pin bidirectional line
 				(at -8.89 -2.54 0)
 				(length 2.54)
