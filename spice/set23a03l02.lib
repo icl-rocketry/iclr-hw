@@ -1,0 +1,21 @@
+* Yageo SET23A03L02 – approximate model, two separate channels to GND
+
+.model SET23A03L02_D D(
++ IS=1e-14
++ N=1.2
++ BV=4      ; reverse breakdown ≈ 4 V at 1 mA
++ IBV=1m
++ RS=0.2    ; series resistance for clamping slope
++ CJO=300p  ; ~300 pF line-to-GND capacitance
++ M=0.5
++ VJ=0.7
+)
+
+* 3‑pin package:
+*   1 = Line 1
+*   2 = Line 2
+*   3 = GND / reference
+.subckt SET23A03L02_2CH 1 2 3
+DCH1 3 1 SET23A03L02_D   ; channel 1 TVS
+DCH2 3 2 SET23A03L02_D   ; channel 2 TVS
+.ends SET23A03L02_2CH
